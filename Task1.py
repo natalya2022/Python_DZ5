@@ -32,7 +32,7 @@ def player(a):
         second = player1
     print('Игрок '+first + ' ходит первым!')
 
-    sum_candies = 70
+    sum_candies = 2021
     max_step = 28
     count = 0
 
